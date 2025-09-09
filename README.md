@@ -95,25 +95,28 @@
 ## 📈 GitHub Stats:
 
 <!-- Full profile summary card -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapranaydakamari&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800)
 
 <!-- Repo + Commit + Stars cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivapranaydakamari&theme=tokyonight" alt="Top Lang by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivapranaydakamari&theme=tokyonight" alt="Most Commit Lang" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Top Lang by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Most Commit Lang" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivapranaydakamari&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivapranaydakamari&theme=tokyonight&utcOffset=5.5" alt="Commits per Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivapranaydakamari&theme=tokyonight&utcOffset=5.5&cache_seconds=1800" alt="Commits per Time" />
 </p>
-
 
 ---
 
-## 🐍 Contribution Snake:
-![GitHub Snake Light](https://raw.githubusercontent.com/sivapranaydakamari/sivapranaydakamari/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/sivapranaydakamari/sivapranaydakamari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## 🏅 GitHub Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=sivapranaydakamari&theme=tokyonight&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Activity Graph:
+[![Siva’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sivapranaydakamari&theme=tokyo-night&hide_border=true&area=true)](https://github.com/sivapranaydakamari)
 
 ---
 
