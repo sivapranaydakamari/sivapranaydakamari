@@ -29,10 +29,8 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C9A7.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-pranay-dakamari-7b453a297/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-00C9A7.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/siva_pranay/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-00C9A7.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/siva_pranay) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C9A7.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/siva_pranay_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00C9A7.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-pranay-dakamari-7b453a297/)  
+[![GitHub](https://img.shields.io/badge/GitHub-00C9A7.svg?logo=github&logoColor=white)](https://github.com/sivapranaydakamari)
 
 ---
 
@@ -47,33 +45,15 @@
 
 ## 🛠️ Tech Stack:
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
+  <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -88,30 +68,24 @@
 ## 📊 Competitive Programming:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/siva_pranay?ext=contest)](https://leetcode.com/u/siva_pranay/)  
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=siva_pranay_)](https://www.geeksforgeeks.org/user/siva_pranay_/)  
-[![CodeChef](https://cp-logo.vercel.app/codechef/siva_pranay)](https://www.codechef.com/users/siva_pranay)
+[![CodeChef](https://cp-logo.vercel.app/codechef/siva_pranay)](https://www.codechef.com/users/siva_pranay)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-00C9A7.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sivapranay1423)
 
 ---
 
 ## 📈 GitHub Stats:
-
-<!-- Full profile summary card -->
+<!-- Profile Summary (clean, minimal) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800)
 
-<!-- Repo + Commit + Stars cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Top Lang by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Most Commit Lang" />
-</p>
-
+<!-- Only Stats card (with GitHub logo) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivapranaydakamari&theme=tokyonight&utcOffset=5.5&cache_seconds=1800" alt="Commits per Time" />
 </p>
 
 ---
 
 ## 🏅 GitHub Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sivapranaydakamari&theme=tokyonight&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sivapranaydakamari&theme=tokyonight&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
