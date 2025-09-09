@@ -30,9 +30,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00C9A7.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-pranay-dakamari-7b453a297/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-00C9A7.svg?logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/siva_pranay/](https://leetcode.com/u/siva_pranay/))  
-[![CodeChef](https://img.shields.io/badge/CodeChef-00C9A7.svg?logo=codechef&logoColor=white)]([https://www.codechef.com/](https://www.codechef.com/users/siva_pranay)) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C9A7.svg?logo=GeeksforGeeks&logoColor=white)]([https://auth.geeksforgeeks.org/](https://www.geeksforgeeks.org/user/siva_pranay_/](https://www.geeksforgeeks.org/user/siva_pranay_/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-00C9A7.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/siva_pranay/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-00C9A7.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/siva_pranay) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C9A7.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/siva_pranay_/)
 
 ---
 
@@ -86,9 +86,9 @@
 ---
 
 ## 📊 Competitive Programming:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sivapranaydakamari?ext=contest)]([https://leetcode.com/](https://leetcode.com/u/siva_pranay/))  
-[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=sivapranaydakamari)]([https://auth.geeksforgeeks.org/user/sivapranaydakamari/](https://www.geeksforgeeks.org/user/siva_pranay_/))  
-[![CodeChef](https://cp-logo.vercel.app/codechef/sivapranaydakamari)]([https://www.codechef.com/users/sivapranaydakamari](https://www.codechef.com/users/siva_pranay))
+[![Leetcode Stats](https://leetcard.jacoblin.cool/siva_pranay?ext=contest)](https://leetcode.com/u/siva_pranay/)  
+[![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=siva_pranay_)](https://www.geeksforgeeks.org/user/siva_pranay_/)  
+[![CodeChef](https://cp-logo.vercel.app/codechef/siva_pranay)](https://www.codechef.com/users/siva_pranay)
 
 ---
 
