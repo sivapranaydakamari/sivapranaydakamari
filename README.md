@@ -93,9 +93,21 @@
 ---
 
 ## 📈 GitHub Stats:
-![Siva’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivapranaydakamari&show_icons=true&theme=react&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff&bg_color=0d1117)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivapranaydakamari&theme=dark&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivapranaydakamari&layout=compact&theme=react&title_color=00C9A7&text_color=ffffff&bg_color=0d1117)  
+
+<!-- Full profile summary card -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapranaydakamari&theme=tokyonight)
+
+<!-- Repo + Commit + Stars cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sivapranaydakamari&theme=tokyonight" alt="Top Lang by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sivapranaydakamari&theme=tokyonight" alt="Most Commit Lang" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivapranaydakamari&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sivapranaydakamari&theme=tokyonight&utcOffset=5.5" alt="Commits per Time" />
+</p>
+
 
 ---
 
