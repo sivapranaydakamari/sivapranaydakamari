@@ -19,11 +19,11 @@
 ---
 
 ## 💫 About Me:
-- 🎓 B.Tech CSE @ ACET (CGPA: **9.46**)  
-- 💻 Building apps with **Flutter, Firebase, REST APIs**  
-- 🌍 Open to **collaboration & internships**  
-- ✉️ Reach me at: **sivapranay1423@gmail.com**  
-- 🔗 [Resume](https://drive.google.com/file/d/1lh-sxrsqRKFk8hj0mmwSx2RKLDjTBoxZ/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/siva-pranay-dakamari-7b453a297/) | [GitHub](https://github.com/sivapranaydakamari)  
+-  B.Tech CSE @ ACET (CGPA: **9.46**)  
+-  Building apps with **Flutter, Firebase, REST APIs**  
+-  Open to **collaboration & internships**  
+- ✉ Reach me at: **sivapranay1423@gmail.com**  
+-  [LinkedIn](https://www.linkedin.com/in/siva-pranay-dakamari-7b453a297/) | [GitHub](https://github.com/sivapranaydakamari)  
 
 ---
 
@@ -41,19 +41,21 @@
 | [**Flutter Mart – E-Commerce Furniture App**](#) | E-commerce app with wishlist, cart, category filtering. | Flutter, Dart |
 
 ---
-
 ## 🛠️ Tech Stack:
 <p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a>
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank">
+  <img src="https://img.shields.io/badge/SQL/PLSQL-00C9A7?style=flat&logo=oracle&logoColor=white" width="100" height="40"/>
+</a>
 </p>
+
 
 ---
 
@@ -67,19 +69,20 @@
 ## 📊 Competitive Programming:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/siva_pranay?ext=contest)](https://leetcode.com/u/siva_pranay/)  
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=siva_pranay_)](https://www.geeksforgeeks.org/user/siva_pranay_/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-00C9A7.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/siva_pranay)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-00C9A7.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sivapranay1423)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00C9A7?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sivapranay1423)
+
 
 ---
 
 ## 📈 GitHub Stats:
-<p align="center">
+## 📊 GitHub Stats:
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=sivapranaydakamari&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 </p>
-
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivapranaydakamari&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
+
 
 ---
 
