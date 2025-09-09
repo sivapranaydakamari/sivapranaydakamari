@@ -1,7 +1,3 @@
-<!-- ====== PLACE FOR BANNER ====== -->
-<p align="center">
-  <img src="your-banner.png" alt="Siva Pranay Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Siva Pranay Dakamari</h1>
 <h3 align="center">Flutter & Full-Stack Developer | Competitive Programmer | Tech Explorer</h3>
@@ -74,10 +70,9 @@
 
 ---
 
-## 📈 GitHub Stats:
 ## 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sivapranaydakamari&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sivapranaydakamari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivapranaydakamari&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
