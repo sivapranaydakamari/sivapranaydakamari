@@ -11,9 +11,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=Flutter+Developer;Full-Stack+Development;Problem+Solver;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
----
-
-<p align="center"> 
+<!-- Profile Views aligned right -->
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=sivapranaydakamari&label=Profile%20views&color=00C9A7&style=flat" alt="Profile views" />
 </p>
 
@@ -68,24 +67,27 @@
 ## 📊 Competitive Programming:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/siva_pranay?ext=contest)](https://leetcode.com/u/siva_pranay/)  
 [![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=siva_pranay_)](https://www.geeksforgeeks.org/user/siva_pranay_/)  
-[![CodeChef](https://cp-logo.vercel.app/codechef/siva_pranay)](https://www.codechef.com/users/siva_pranay)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-00C9A7.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/siva_pranay)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-00C9A7.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sivapranay1423)
 
 ---
 
 ## 📈 GitHub Stats:
-<!-- Profile Summary (clean, minimal) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800)
-
-<!-- Only Stats card (with GitHub logo) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sivapranaydakamari&theme=tokyonight&cache_seconds=1800" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivapranaydakamari&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivapranaydakamari&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivapranaydakamari&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
 ## 🏅 GitHub Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=sivapranaydakamari&theme=tokyonight&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sivapranaydakamari&theme=tokyonight&column=6&margin-w=10&margin-h=10" alt="trophies"/>
+</p>
 
 ---
 
